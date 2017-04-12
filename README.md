@@ -5,6 +5,8 @@ A collection of visualizations for machine learning with R, created in RMarkdown
 
 > "Machine learning is the next Internet." - Tony Tether, former director of DARPA
 
+> "They call me Dirichlet because all of my potential is latent and awaiting allocation." - [@ML_Hipster](http://www.twitter.com/ML_Hipster)
+
 -----
 ## Supervised Learning Algorithms
 ### Classification
