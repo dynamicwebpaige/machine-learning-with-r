@@ -2,6 +2,7 @@
 A collection of visualizations for machine learning with R, created in RMarkdown and exported as HTML. Applicable algorithms, descriptions of use cases for each algorithm, and applicable R libraries are listed below.
 
 > "A breakthrough in machine learning would be worth ten Microsofts." - Bill Gates
+
 > "Machine learning is the next Internet." - Tony Tether, former director of DARPA
 
 -----
