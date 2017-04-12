@@ -1,11 +1,11 @@
 # Machine Learning with R
 A collection of visualizations for machine learning with R, created in RMarkdown and exported as HTML. Applicable algorithms, descriptions of use cases for each algorithm, and applicable R libraries are listed below.
 
-> "A breakthrough in machine learning would be worth ten Microsofts." - Bill Gates
+> **"A breakthrough in machine learning would be worth ten Microsofts."** - _Bill Gates_
 
-> "Machine learning is the next Internet." - Tony Tether, former director of DARPA
+> **"Machine learning is the next Internet."** - _Tony Tether, former director of DARPA_
 
-> "They call me Dirichlet because all of my potential is latent and awaiting allocation." - [@ML_Hipster](http://www.twitter.com/ML_Hipster)
+> **"They call me Dirichlet because all of my potential is latent and awaiting allocation."** - [@ML_Hipster](http://www.twitter.com/ML_Hipster)
 
 -----
 ## Supervised Learning Algorithms
