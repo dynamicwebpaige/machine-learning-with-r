@@ -38,12 +38,23 @@ A collection of visualizations for machine learning with R, created in RMarkdown
 -----
 ## R Libraries
 `class`
+
 `gmodels`
+
 `tm`
+
 `SnowballC`
+
 `wordcloud`
+
 `e071`
+
 `klaR`
+
 `C50`
+
 `RWeka`
+
 `psych`
+
+`caret`
