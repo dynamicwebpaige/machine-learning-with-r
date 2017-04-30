@@ -37,24 +37,22 @@ A collection of visualizations for machine learning with R, created in RMarkdown
 
 -----
 ## R Libraries
-`class`
+`class`: functions for classification, including k-nearest neighbor, learning vector quantization, and self-organizing maps
 
-`gmodels`
+`gmodels`: programming tools for model fitting.
 
-`tm`
+`tm`: framework for text mining applications.
 
-`SnowballC`
+`SnowballC`: interface to the C libstemmer library that implements Porter's word stemming algorithm for collapsing words to a common root to aid comparison of vocabulary.
 
-`wordcloud`
+`e071`: functions for latent class analysis, short time Fourier transform, fuzzy clustering, support vector machines, shortest path computation, bagged cluster, and naive Bayes. Whew!
 
-`e071`
+`klaR`: classification and visualization functions.
 
-`klaR`
+`C50`: C5.0 decision trees and rule-based models for pattern recognition.
 
-`C50`
+`RWeka`: machine learning algorithms for data mining tasks, written in Java. Supports pre-processing, classification, regression, clustering, association rules, and visualization.
 
-`RWeka`
-
-`psych`
+`psych`: graphical displays of path diagrams, factor analysis, and structural equation models.
 
 `caret`
