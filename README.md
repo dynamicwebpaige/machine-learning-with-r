@@ -55,4 +55,4 @@ A collection of visualizations for machine learning with R, created in RMarkdown
 
 `psych`: graphical displays of path diagrams, factor analysis, and structural equation models.
 
-`caret`
+`caret`: set of functions that attempt to streamline the process for creating predictive models.
