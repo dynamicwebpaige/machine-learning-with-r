@@ -56,3 +56,5 @@ A collection of visualizations for machine learning with R, created in RMarkdown
 `psych`: graphical displays of path diagrams, factor analysis, and structural equation models.
 
 `caret`: set of functions that attempt to streamline the process for creating predictive models.
+
+`MXNetR`: wrapper for MXNet; for GPU computation on deep learning problems.
